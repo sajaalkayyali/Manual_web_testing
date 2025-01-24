@@ -19,3 +19,8 @@ This repository is dedicated to documenting manual test cases and their results 
 
 ## Author
 Saja Alkayyali
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
